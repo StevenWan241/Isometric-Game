@@ -12,12 +12,12 @@ Tiny World Adventure is an isometric 2.5D action-puzzle game built in Unity. It 
 2. Open **Unity Hub**
 3. Click **Add Project**
 4. Select the downloaded folder
-5. Open using **Unity version: 2022.3.x LTS** *(replace with your version)*
+5. Open using **Unity version: 2023.1.11f1**
 
 ### Option 2 – Unity Package
 1. Create a **new Unity project**
 2. Go to **Assets → Import Package → Custom Package**
-3. Select `TinyWorldAdventure.unitypackage`
+3. Select `Isometric Game.unitypackage`
 4. Import all files
 
 ---
