@@ -4,6 +4,7 @@
 Tiny World Adventure is an isometric 2.5D action-puzzle game built in Unity. It features grid-based movement, environmental interaction, enemy AI, boss projectile patterns, and smooth camera transitions using Cinemachine. This project demonstrates interactive gameplay design, iterative development, and level/system design principles.
 
 Role & Contributions: Designed core gameplay systems, implemented AI behaviors, developed puzzles, and iteratively refined mechanics based on playtesting feedback.
+
 ---
 
 ## How to Open the Project
