@@ -1,8 +1,9 @@
 # Tiny World Adventure – Isometric Action Game
 
 ## Overview
-Tiny World Adventure is an isometric 2.5D action-puzzle game built in Unity. It features a grid-based movement system, collectible items, enemy AI, boss-level projectile patterns, and smooth camera transitions using Cinemachine. This project demonstrates gameplay mechanics, environmental interaction, and basic level design principles.
+Tiny World Adventure is an isometric 2.5D action-puzzle game built in Unity. It features grid-based movement, environmental interaction, enemy AI, boss projectile patterns, and smooth camera transitions using Cinemachine. This project demonstrates interactive gameplay design, iterative development, and level/system design principles.
 
+Role & Contributions: Designed core gameplay systems, implemented AI behaviors, developed puzzles, and iteratively refined mechanics based on playtesting feedback.
 ---
 
 ## How to Open the Project
@@ -49,6 +50,10 @@ Tiny World Adventure is an isometric 2.5D action-puzzle game built in Unity. It 
 
 ---
 
-## Notes
-This project demonstrates my ability to design interactive gameplay, iterate on mechanics based on testing, and create clear and playable systems in Unity. Future improvements include additional levels, more enemy patterns, and expanded puzzle mechanics.
+## Production & Design Notes
+- Iteratively developed gameplay systems with testing and feedback  
+- Balanced enemy and boss behaviors for a readable challenge  
+- Designed environmental puzzles to integrate with grid-based movement  
+- Structured scenes and camera flow for clear player guidance  
+- Future improvements: additional levels, expanded puzzle mechanics, refined boss patterns
 
